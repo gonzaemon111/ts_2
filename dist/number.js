@@ -1,5 +1,5 @@
 "use strict";
-let decimal = 256;
-let hex = 0xfff;
-let binary = 0b0000;
-let octal = 0o123;
+let Adecimal = 256;
+let Ahex = 0xfff;
+let Abinary = 0b0000;
+let Aoctal = 0o123;
